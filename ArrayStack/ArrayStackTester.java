@@ -9,7 +9,7 @@ public class ArrayStackTester {
 		// pushing numbers into stack
 		mystack.push(1);
 		mystack.push(2);
-		mystack.push(7);
+		mystack.push(3);
 		mystack.push(9);
 		mystack.push(15);
 		mystack.push(100);
